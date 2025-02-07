@@ -1,0 +1,44 @@
+commit 8ae3f0983d1881aff2cf12e1de70ddcefcae32f9
+Author: Juan La serna <juanlaserna@macbookpro.calstatela.edu>
+Date:   Thu Feb 6 23:08:27 2025 -0800
+
+    I don't know the other lyrics
+
+commit 15565ebb53914578ccac59dd0cff9826a346c285
+Author: Juan La serna <juanlaserna@macbookpro.calstatela.edu>
+Date:   Thu Feb 6 22:50:13 2025 -0800
+
+    it's me
+
+commit b965be276f274ece68c207309bd99c514a1f6cf4
+Author: Juan La serna <juanlaserna@macbookpro.calstatela.edu>
+Date:   Thu Feb 6 22:10:47 2025 -0800
+
+    hello
+
+commit 9c73d75164f3af76a3e1cfa5cf23ad83fcbb33b5
+Author: Juan La serna <juanlaserna@macbookpro.calstatela.edu>
+Date:   Thu Feb 6 22:04:52 2025 -0800
+
+    hello
+
+commit 763d4ab3fe6bd5492fe345ff5e3ad7d528354892
+Merge: 1d2bfc0 aa34330
+Author: Juan La Serna <68357370+JuanL2003@users.noreply.github.com>
+Date:   Fri Jan 31 11:26:10 2025 -0800
+
+    Merge pull request #1 from JuanL2003/info-fill
+    
+    filled the blanks
+
+commit aa34330b131a4eab7b02eb3e5d9070fc3034431d
+Author: Juan La serna <juanlaserna@macbookpro.wifi.calstatela.edu>
+Date:   Fri Jan 31 11:18:42 2025 -0800
+
+    filled the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
